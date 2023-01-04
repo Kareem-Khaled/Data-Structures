@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672861901 source:c:\users\kemo\desktop\main\main.cpp
+	<iostream>
+	"Graph.h"
+
+1672860421 c:\users\kemo\desktop\main\include\linked_list.h
+	"Graph.h"
+
+1672862338 c:\users\kemo\desktop\main\include\graph.h
+	"Linked_list.h"
+
